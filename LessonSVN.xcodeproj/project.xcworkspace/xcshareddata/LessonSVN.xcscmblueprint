@@ -1,15 +1,17 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0ed2ab32-ac73-4a60-a843-b89cb23efee2++2852",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E0A9BC4B10366AA9C5269EB50FB710D14F03ACE",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "0ed2ab32-ac73-4a60-a843-b89cb23efee2++2852" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2E0A9BC4B10366AA9C5269EB50FB710D14F03ACE" : 0,
     "0ed2ab32-ac73-4a60-a843-b89cb23efee2++2852" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "399479D2-2D32-4AA5-9702-6820F4A7D376",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2E0A9BC4B10366AA9C5269EB50FB710D14F03ACE" : "001\/",
     "0ed2ab32-ac73-4a60-a843-b89cb23efee2++2852" : "LessonSVN\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "LessonSVN",
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/waigeclass50",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0ed2ab32-ac73-4a60-a843-b89cb23efee2++2852"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dengm\/DDM.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E0A9BC4B10366AA9C5269EB50FB710D14F03ACE"
     }
   ]
 }
